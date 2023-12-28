@@ -63,17 +63,21 @@ Hi, this Wanrong. Welcome to my wonderland! Currently, I am a PhD student in com
 - *2023.12*, Teaching Assistant for *the theory of computation*, University of Liverpool
 
 # 🎨 Tools
-- **Make your Life much easier**
-  - [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/), you can find various emojies and their unicode easily
+- **1.Make your Life much easier**
+  - [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/), you can find various emojies and their unicode easily.
   - [Free PDF tools](https://docsmall.com/pdf-split), Strugle with PDF? Use it!
-  - [Edit your picture](https://www.iloveimg.com/zh-cn/crop-image/crop-png)
-- **Boost your research**
+  - [Edit your picture](https://www.iloveimg.com/zh-cn/crop-image/crop-png), Cut your picture into pointed size.
+  - [Practice your English for exam](https://qwerty.kaiyi.cool/), worries about you IELTS test? It could be helpful for you.
+- **2.Boost your research**
   - [Top AI Conference DDL](https://aideadlin.es/?sub=ML,NLP,KR,HCI), Easily find all Top Trier AI conference deadline.
-  - [Zotera plugins, Chinese](https://plugins.zotero-chinese.com/#/), Extend capability of you Zotera using various plugins
-  - [Z-Library](https://zh.zlibrary-global.se/), Find any book you need here, and please support the copyright of author if you are able to
-- **Reinforcement learning**
+  - [Zotera plugins, Chinese](https://plugins.zotero-chinese.com/#/), Extend capability of you Zotera using various plugins(Better paper reading experience).
+  - [Z-Library](https://zh.zlibrary-global.se/), Find any book you need here, and please support the copyright of author if you are able to.
+  - [Turn Vedio into GIF for your academic presentation, Chinese](https://www.tutieshi.com/video/), Make an dynamic figure in your presentation must be fun.
+  - [Turn Vedio into GIF for your academic presentation, English](https://www.freeconvert.com/convert/video-to-gif). Same as last one
+  - [Pyradiomics introduction](https://pyradiomics.readthedocs.io/en/latest/features.html#module-radiomics.ngtdm). Powerful Radiomics research tools
+- **3.Reinforcement learning**
   - [Stable baseline3](https://stable-baselines3.readthedocs.io/en/master/), Fast Reliable Reinforcement Learning Implementations.
-- **Easy hardware programing**
+- **4.Easy hardware programing**
   - [Micropython, Chinese](http://micropython.com.cn/en/latet/reference/pyboard.py.html), Tutorials for hardware programing using micropython (Chinese version)
   - [Micropython, English](https://docs.micropython.org/en/latest/), Tutorials for hardware programing using micropython (English version)
   - [Pyboard, Chinese](http://vcc-gnd.com/PYB/html/pyboard/quickref.html), Learn how to using micropython on pyboard micro chip (Chinese version)
