@@ -31,12 +31,12 @@ Hi, this Wanrong. Welcome to my wonderland! Currently, I am a PhD student in com
 - *2021.08*: &nbsp;🎉🎉 We are heading to SUN YAT-SEN University to attend 6th National Biomedical Engineering Innovation and Design Competition.
 
 # 📝 Publications
-- **Yang, W.**, Zhou, Y., et al., Multimodality radiomics boosts precise online risk stratification in prostate cancer radiotherapy, The Annual Congress of the European Society for Radiotherapy and Oncology (ESTRO,2024, accepted)
-- **Yang, W.**, Zhou, Y., et al., Multimodality radiomics model for improving MR-guided radiotherapy of prostate cancer, The 16th International Conference for Stereology and Image Analysis (ICSIA-2023, accepted)
-- Li, W., Xu, J., **Yang, W.**, et al. [Approach and Application of Extracting Matching Features From E-nose Signals for AI Tasks](https://www.sciencedirect.com/science/article/pii/S1746809423013022?dgcid=coauthor). Biomedical Signal Processing and Control (JCR Q1), 2023
-- **Yang, W.**, Xu, J. ...  & Li, W. [Diagnosis of cardiac abnormalities based on phonocardiogram using a novel fuzzy matching feature extraction method](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-023-02379-x). BMC medical informatics and decision making (JCR Q1), 2022
-- **Yang, W.**, et al., [Metabolic changes of VOCs in human caused by wearing masks: a preliminary study based on electronic nose](https://www.spiedigitallibrary.org/proceedings/Download?urlId=10.1117%2F12.2660107), Proc. SPIE 12458, International Conference on Biomedical and Intelligent Systems (IC-BIS 2022)
-- Xiang, J., **Yang, W.**, Li, W. [Digital Signal Extraction Approach for Cardiotocography Image](https://www.sciencedirect.com/science/article/pii/S0169260722004709). Computer Methods and Programs in Biomedicine (JCR Q1), 2022.
+- **Yang, W.**, Zhou, Y., et al., Multimodality radiomics boosts precise online risk stratification in prostate cancer radiotherapy, The Annual Congress of the European Society for Radiotherapy and Oncology (ESTRO,2024, accepted). ***[PDF](https://1drv.ms/b/s!Al_icwM1ADsmjQEld7gfyKu0ZDXU?e=1NDBRI)***
+- **Yang, W.**, Zhou, Y., et al., Multimodality radiomics model for improving MR-guided radiotherapy of prostate cancer, The 16th International Conference for Stereology and Image Analysis (ICSIA-2023, accepted). ***[PDF](https://1drv.ms/b/s!Al_icwM1ADsmjG1dPYNehjOUGH1l?e=y1xxDn)***
+- Li, W., Xu, J., **Yang, W.**, et al. [Approach and Application of Extracting Matching Features From E-nose Signals for AI Tasks](https://www.sciencedirect.com/science/article/pii/S1746809423013022?dgcid=coauthor). Biomedical Signal Processing and Control (JCR Q1), 2023. ***[PDF](https://1drv.ms/b/s!Al_icwM1ADsmjGsLrXT4lyWJaP1i?e=h5HuOo)***
+- **Yang, W.**, Xu, J. ...  & Li, W. [Diagnosis of cardiac abnormalities based on phonocardiogram using a novel fuzzy matching feature extraction method](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-023-02379-x). BMC medical informatics and decision making (JCR Q1), 2022. ***[PDF](https://1drv.ms/b/s!Al_icwM1ADsmjHXUJuJqApFume3K?e=XHT7Gv)***
+- **Yang, W.**, et al., [Metabolic changes of VOCs in human caused by wearing masks: a preliminary study based on electronic nose](https://www.spiedigitallibrary.org/proceedings/Download?urlId=10.1117%2F12.2660107), Proc. SPIE 12458, International Conference on Biomedical and Intelligent Systems (IC-BIS 2022). ***[PDF](https://1drv.ms/b/s!Al_icwM1ADsmjHGzCPQDwr-_KZUu?e=JJsYbH)***
+- Xiang, J., **Yang, W.**, Li, W. [Digital Signal Extraction Approach for Cardiotocography Image](https://www.sciencedirect.com/science/article/pii/S0169260722004709). Computer Methods and Programs in Biomedicine (JCR Q1), 2022. ***[PDF](https://1drv.ms/b/s!Al_icwM1ADsmjG_JGsNBFA-wDqZE?e=XxkuEF)***
 
 # 📚 Invention Patent
 - *2023*, Yihang, Zhou, **Wanrong Yang.**, et al. A cancer risk stratification method based on multi-modality radiomics, under review.
@@ -84,7 +84,7 @@ Hi, this Wanrong. Welcome to my wonderland! Currently, I am a PhD student in com
   - [Micropython, English](https://docs.micropython.org/en/latest/), Tutorials for hardware programing using micropython (English version)
   - [Pyboard, Chinese](http://vcc-gnd.com/PYB/html/pyboard/quickref.html), Learn how to using micropython on pyboard micro chip (Chinese version)
 
-# 🚀 Research Support and Cooperation
+# 🚀 Research Supports and Cooperations
 <div style="text-align: center;">
     <img src="images/SP.jpg" alt="Supportive institutions" width="80%">
 </div>
