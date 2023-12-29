@@ -22,7 +22,7 @@ Hi, this Wanrong. Welcome to my wonderland! Currently, I am a PhD student in com
 
 
 # 🔥 News
-- *2023.12*: &nbsp;🥳🥳 Our new paper was by Annual Congress of the European Society for Radiotherapy and Oncology 2024.
+- *2023.12*: &nbsp;🥳🥳 Our new research abstract was accepted by 2024 Annual Congress of the European Society for Radiotherapy and Oncology.
 - *2023.10*: &nbsp;🎉🎉 Our latest research regarding multimodality radiomics is accepted by ICSIA 2023.
 - *2023.07*: &nbsp;🥳🥳 Having my PhD admission offer to the University of Liverpool!
 - *2023.06*: &nbsp;🎉🎉 Officially graduated from my undergraduate study!
@@ -86,5 +86,5 @@ Hi, this Wanrong. Welcome to my wonderland! Currently, I am a PhD student in com
 
 # 🚀 Research Supports and Cooperations
 <div style="text-align: center;">
-    <img src="images/SP.jpg" alt="Supportive institutions" width="90%">
+    <img src="images/SP.jpg" alt="Supportive institutions" width="100%">
 </div>
