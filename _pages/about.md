@@ -86,5 +86,5 @@ Hi, this Wanrong. Welcome to my wonderland! Currently, I am a PhD student in com
 
 # 🚀 Research Support and Cooperation
 <div style="text-align: center;">
-    <img src="images/support.jpg" alt="sym" width="70%">
+    <img src="images/Support.jpg" alt="Supportive institutions" width="80%">
 </div>
