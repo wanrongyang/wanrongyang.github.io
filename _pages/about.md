@@ -64,7 +64,7 @@ Hi, this Wanrong. Welcome to my wonderland! Currently, I am a PhD student in com
   - [Practice your English for exam](https://qwerty.kaiyi.cool/), worries about you IELTS test? It could be helpful for you.
   - [Start computer science from 0](https://csdiy.wiki/en/), if you are interested in CS, but without any foundation, follow this route
 - **2.Boost your research**
-  - [Top AI Conference DDL](https://aideadlin.es/?sub=ML,NLP,KR,HCI), Easily find all Top Trier AI conference deadline.
+  - [Top AI Conference DDL](https://aideadlin.es/?sub=ML,NLP,KR,HCI), Easily find all Top AI conference deadline.
   - [Zotera plugins, Chinese](https://plugins.zotero-chinese.com/#/), Extend capability of you Zotera using various plugins(Better paper reading experience).
   - [Z-Library](https://zh.zlibrary-global.se/), Find any book you need here, and please support the copyright of author if you are able to.
   - [Turn Vedio into GIF for your academic presentation, Chinese](https://www.tutieshi.com/video/), Make an dynamic figure in your presentation must be fun.
