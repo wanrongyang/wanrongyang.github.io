@@ -21,12 +21,12 @@ Hi, this Wanrong. Welcome to my wonderland! Currently, I am a PhD student in com
 - *2023.07*: &nbsp;🥳🥳 Having my PhD admission offer to the University of Liverpool!
 - *2023.06*: &nbsp;🎉🎉 Officially graduated from my undergraduate study!
 - *2022.11*: &nbsp;🥳🥳 Having top honor awarded to undergraduate in CQUT.
-- *2022.10*: &nbsp;🥳🥳 We obtained National 2rd prize in 7th National Biomedical Engineering Innovation and Design Competition
+- *2022.10*: &nbsp;🥳🥳 We obtained National 2rd prize in 7th National Biomedical Engineering Innovation and Design Competition.
 - *2021.08*: &nbsp;🎉🎉 We are heading to SUN YAT-SEN University to attend 6th National Biomedical Engineering Innovation and Design Competition.
 
 # 📝 Publications
 - **Yang, W.**, Zhou, Y., et al., Multimodality radiomics boosts precise online risk stratification in prostate cancer radiotherapy, The Annual Congress of the European Society for Radiotherapy and Oncology (ESTRO,2024, abstract accepted). ***[PDF](https://1drv.ms/b/s!Al_icwM1ADsmjQEld7gfyKu0ZDXU?e=1NDBRI)***
-- **Yang, W.**, Zhou, Y., et al., Multimodality radiomics model for improving MR-guided radiotherapy of prostate cancer, The 16th International Conference for Stereology and Image Analysis (ICSIA-2023, accepted). ***[PDF](https://1drv.ms/b/s!Al_icwM1ADsmjG1dPYNehjOUGH1l?e=y1xxDn)***
+- **Yang, W.**, Zhou, Y., et al., Multimodality radiomics model for improving MR-guided radiotherapy of prostate cancer, The 16th International Conference for Stereology and Image Analysis (ICSIA-2023, accepted). ***[PDF](https://1drv.ms/b/s!Al_icwM1ADsmjSnEfjmAYdAgimRT?e=xbZlxe)***
 - Li, W., Xu, J., **Yang, W.**, et al. [Approach and Application of Extracting Matching Features From E-nose Signals for AI Tasks](https://www.sciencedirect.com/science/article/pii/S1746809423013022?dgcid=coauthor). Biomedical Signal Processing and Control (JCR Q1), 2023. ***[PDF](https://1drv.ms/b/s!Al_icwM1ADsmjGsLrXT4lyWJaP1i?e=h5HuOo)***
 - **Yang, W.**, Xu, J. ...  & Li, W. [Diagnosis of cardiac abnormalities based on phonocardiogram using a novel fuzzy matching feature extraction method](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-023-02379-x). BMC medical informatics and decision making (JCR Q1), 2022. ***[PDF](https://1drv.ms/b/s!Al_icwM1ADsmjHXUJuJqApFume3K?e=XHT7Gv)***
 - **Yang, W.**, et al., [Metabolic changes of VOCs in human caused by wearing masks: a preliminary study based on electronic nose](https://www.spiedigitallibrary.org/proceedings/Download?urlId=10.1117%2F12.2660107), Proc. SPIE 12458, International Conference on Biomedical and Intelligent Systems (IC-BIS 2022). ***[PDF](https://1drv.ms/b/s!Al_icwM1ADsmjHGzCPQDwr-_KZUu?e=JJsYbH)***
