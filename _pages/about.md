@@ -12,7 +12,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # ✨ About me
-Hi, this Wanrong. Welcome to my wonderland! Currently, I am a PhD student in computer science at [EPSRC Centre for Doctoral Training (CDT)](https://www.liverpool.ac.uk/distributed-algorithms-cdt/), Which is a fansnating place to generate future leader in data science and arifical intelligence. Before this, I obtained my bechelor's degree in Biomedical Engineering with highest honor from joint education of [Chongqing University of Technology(CQUT)](https://www.cqut.edu.cn/) and [Shenzhen Institute of Adcanced Technology(SIAT), Chinese Academy of Sciences(CAS)](https://www.siat.ac.cn/). During my undergraduate study, with the supervision of Dr.Wang Li and Dr.Shengping Liu,I focused on medical signal processing and electronic nose. After that, I was supervised by [Dr.Yihang Zhou](https://scholar.google.com/citations?user=l_O7i1oAAAAJ&hl=en), [Dr.Haifeng Wang](https://scholar.google.com/citations?user=Ao4Q2uAAAAAJ&hl=zh-CN) and [Dr.Dong Liang](https://scholar.google.com/citations?user=3cAJWoIAAAAJ&hl=zh-CN) to conduct MR-guided radiotherapy in prostate cancer and AI for fast MR imaging in SIAT. Now, I am supervised by [Dr.Dominik Wojtczak](https://www.csc.liv.ac.uk/~dominik/) and [Dr.Sven Schewe](https://www.liverpool.ac.uk/computer-science/staff/sven-schewe/), cooperated with [Dr.Stephen Pasteris](https://scholar.google.com.hk/citations?user=mqtdKfkAAAAJ&hl=zh-CN&oi=ao) from [Alan Turing Institute](https://www.turing.ac.uk/) to explor new AI technology for cybersecurity. If you are interested in my research, please drop me an email 📬 **Wanrong.Yang@liverpool.ac.uk**
+
+***"Those who can imagine anything, can create the impossible -Alan Turing"***
+
+Hi, this Wanrong. Welcome to my wonderland! Currently, I am a PhD student in computer science at [EPSRC Centre for Doctoral Training (CDT)](https://www.liverpool.ac.uk/distributed-algorithms-cdt/), Which is a fansnating place to generate future leader in data science and arifical intelligence. Before this, I obtained my bechelor's degree in Biomedical Engineering with highest honor from joint education of [Chongqing University of Technology(CQUT)](https://www.cqut.edu.cn/) and [Shenzhen Institute of Adcanced Technology(SIAT), Chinese Academy of Sciences(CAS)](https://www.siat.ac.cn/). During my undergraduate study, with the supervision of Dr.Wang Li and Dr.Shengping Liu, I focused on medical signal processing and electronic nose. After that, I was supervised by [Dr.Yihang Zhou](https://scholar.google.com/citations?user=l_O7i1oAAAAJ&hl=en), [Dr.Haifeng Wang](https://scholar.google.com/citations?user=Ao4Q2uAAAAAJ&hl=zh-CN) and [Dr.Dong Liang](https://scholar.google.com/citations?user=3cAJWoIAAAAJ&hl=zh-CN) to conduct MR-guided radiotherapy in prostate cancer and AI for fast MR imaging in SIAT. Now, I am supervised by [Dr.Dominik Wojtczak](https://www.csc.liv.ac.uk/~dominik/) and [Dr.Sven Schewe](https://www.liverpool.ac.uk/computer-science/staff/sven-schewe/), cooperated with [Dr.Stephen Pasteris](https://scholar.google.com.hk/citations?user=mqtdKfkAAAAJ&hl=zh-CN&oi=ao) from [Alan Turing Institute](https://www.turing.ac.uk/) to explor new AI technology for cybersecurity. If you are interested in my research, please drop me an email 📬 **Wanrong.Yang@liverpool.ac.uk**
 
 
 # 🔥 News
@@ -56,6 +59,11 @@ Hi, this Wanrong. Welcome to my wonderland! Currently, I am a PhD student in com
 # 👨‍🏫 Academic services
 - *2023.12*, Teaching Assistant for *the theory of computation*, University of Liverpool
 
+# 🏰 Lecters
+- **1. Machine learning**
+  - 1.1 Introduction to machine learning, [PDF], [Vedio]
+  - 1.2 Algorithms, [PDF], [Vedio]
+
 # 🎨 Tools
 - **1.Make your Life much easier**
   - [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/), you can find various emojies and their unicode easily.
@@ -77,7 +85,7 @@ Hi, this Wanrong. Welcome to my wonderland! Currently, I am a PhD student in com
   - [Micropython, Chinese](http://micropython.com.cn/en/latet/reference/pyboard.py.html), Tutorials for hardware programing using micropython (Chinese version)
   - [Micropython, English](https://docs.micropython.org/en/latest/), Tutorials for hardware programing using micropython (English version)
   - [Pyboard, Chinese](http://vcc-gnd.com/PYB/html/pyboard/quickref.html), Learn how to using micropython on pyboard micro chip (Chinese version)
-
+- [**5.Some professional books**](https://1drv.ms/f/s!Al_icwM1ADsmjSpz9st6B9vcTzen?e=PfqnBh) Here you can find my research related books, however you may need to request clearance from me
 # 🚀 Research Supports and Cooperations
 <div style="text-align: center;">
     <img src="images/SP.jpg" alt="Supportive institutions" width="95%">
