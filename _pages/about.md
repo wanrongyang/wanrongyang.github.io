@@ -37,6 +37,7 @@ Hi, this Wanrong. Welcome to my wonderland! Currently, I am a PhD student in com
 - *2023*, Yihang, Zhou, **Wanrong Yang.**, et al. A cancer risk stratification method based on multi-modality radiomics, under review.
 
 # 🏆 Honors and Awards
+- *2023.09* **Excellent Undergraduate Thesis** of Chongqing City.
 - *2023.06* **Outstanding Graduates** of Chongqing City.
 - *2022.11* **Top 10 Outstanding Students** of Chongqing University of Technology (Top 0.1%, Class of 2023)
 - *2022.10* **National Scholarship** (0.2%, Top honor awarded to undergraduates by Chinese Government).
@@ -55,12 +56,10 @@ Hi, this Wanrong. Welcome to my wonderland! Currently, I am a PhD student in com
 - *2023.10*, **Plenary leture**, The 16th International Conference for Stereology and Image Analysis(ICSIA-2023), Xi'an, CHINA
 
 # 👨‍🏫 Academic services
+- *2024.02*, Teaching Assistant for *Applied Artificial Intelligence*, University of Liverpool
+- *2024.02*, Teaching Assistant for *Computer Forensics*, University of Liverpool
+- *2024.02*, Teaching Assistant for *Cyber Security*, University of Liverpool
 - *2023.12*, Teaching Assistant for *the theory of computation*, University of Liverpool
-
-# 🏰 Lecters
-- **1. Machine learning**
-  - 1.1 Introduction to machine learning, [PDF], [Vedio]
-  - 1.2 Algorithms, [PDF], [Vedio]
 
 # 🎨 Tools
 - **1.Make your Life much easier**
