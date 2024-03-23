@@ -13,7 +13,14 @@ redirect_from:
 
 # ✨ About me
 
-Hi, this Wanrong. Welcome to my wonderland! Currently, I am a PhD student in computer science at [EPSRC Centre for Doctoral Training (CDT)](https://www.liverpool.ac.uk/distributed-algorithms-cdt/), Which is a fansnating place to generate future leader in data science and arifical intelligence. Before this, I obtained my bechelor's degree in Biomedical Engineering with highest honor from joint education of [Chongqing University of Technology(CQUT)](https://www.cqut.edu.cn/) and [Shenzhen Institute of Adcanced Technology(SIAT), Chinese Academy of Sciences(CAS)](https://www.siat.ac.cn/). During my undergraduate study, with the supervision of Dr.Wang Li and Dr.Shengping Liu, I focused on medical signal processing and electronic nose. After that, I was supervised by [Dr.Yihang Zhou](https://scholar.google.com/citations?user=l_O7i1oAAAAJ&hl=en), [Dr.Haifeng Wang](https://scholar.google.com/citations?user=Ao4Q2uAAAAAJ&hl=zh-CN) and [Dr.Dong Liang](https://scholar.google.com/citations?user=3cAJWoIAAAAJ&hl=zh-CN) to conduct MR-guided radiotherapy in prostate cancer and AI for fast MR imaging in SIAT. Now, I am supervised by [Dr.Dominik Wojtczak](https://www.csc.liv.ac.uk/~dominik/) and [Dr.Sven Schewe](https://www.liverpool.ac.uk/computer-science/staff/sven-schewe/), cooperated with [Dr.Stephen Pasteris](https://scholar.google.com.hk/citations?user=mqtdKfkAAAAJ&hl=zh-CN&oi=ao) from [Alan Turing Institute](https://www.turing.ac.uk/) to explor new AI technology(Reinforcement learning) for cybersecurity. **"Those who can imagine anything, can create the impossible"-Alan Turing**. If you are interested in me, just drop me an email 📬 **Wanrong.Yang@liverpool.ac.uk**
+Hi, this Wanrong. Welcome to my wonderland! Currently, I am a PhD student in computer science at [EPSRC Centre for Doctoral Training (CDT)](https://www.liverpool.ac.uk/distributed-algorithms-cdt/), 
+Which is a fansnating place to generate future leader in data science and arifical intelligence. Before this, I obtained my bechelor's degree in Biomedical Engineering 
+with highest honor from joint education of [Shenzhen Institute of Adcanced Technology(SIAT), University of Chinese Academy of Sciences(UCAS)](https://www.siat.ac.cn/) and 
+[Chongqing University of Technology(CQUT)](https://www.cqut.edu.cn/). During my undergraduate study, with the supervision of Dr.Wang Li and Dr.Shengping Liu, 
+I focused on medical signal processing and electronic nose. After that, I was supervised by [Dr.Yihang Zhou](https://scholar.google.com/citations?user=l_O7i1oAAAAJ&hl=en), [Dr.Haifeng Wang](https://scholar.google.com/citations?user=Ao4Q2uAAAAAJ&hl=zh-CN) and [Dr.Dong Liang](https://scholar.google.com/citations?user=3cAJWoIAAAAJ&hl=zh-CN) 
+to conduct MR-guided radiotherapy in prostate cancer and AI for fast MR imaging in SIAT. Now, I am supervised by [Dr.Dominik Wojtczak](https://www.csc.liv.ac.uk/~dominik/) and [Dr.Sven Schewe](https://www.liverpool.ac.uk/computer-science/staff/sven-schewe/), 
+cooperated with [Dr.Stephen Pasteris](https://scholar.google.com.hk/citations?user=mqtdKfkAAAAJ&hl=zh-CN&oi=ao) from [Alan Turing Institute](https://www.turing.ac.uk/) to explor new AI technology(Reinforcement learning) for cybersecurity. I am also interested in general **AI for Science**.
+**"Those who can imagine anything, can create the impossible"-Alan Turing**. If you are interested in me, just drop me an email 📬 **Wanrong.Yang@liverpool.ac.uk**
 
 
 # 🔥 News
@@ -49,7 +56,7 @@ Hi, this Wanrong. Welcome to my wonderland! Currently, I am a PhD student in com
 
 # 🎓 Educations
 - *2023.10 - 2027.09 (Expected)*, **PhD student**, fully funded by [EPSRC Centre for Doctoral Training (CDT)](https://www.liverpool.ac.uk/distributed-algorithms-cdt/), University of Liverpool.
-- *2019.09 - 2023.09*, **Joint bachelor's education** in [CQUT](https://www.cqut.edu.cn/) and [SIAT, Chinese Academy of Sciences](https://www.siat.ac.cn/)
+- *2019.09 - 2023.09*, **Joint bachelor's education** in [SIAT, University of Chinese Academy of Sciences](https://www.siat.ac.cn/) and [CQUT](https://www.cqut.edu.cn/)
 
 # 📻 Invited Talks
 - *2023.12*, Multimodality radiomics in prostate cancer radiotherapy, CDT Data Science Seminar, University of Liverpool
