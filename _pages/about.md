@@ -77,6 +77,7 @@ cooperated with [Dr.Stephen Pasteris](https://scholar.google.com.hk/citations?us
   - [Start computer science from 0](https://csdiy.wiki/en/), if you are interested in CS, but without any foundation, follow this route
 - **2.Boost your research**
   - [Top AI Conference DDL](https://aideadlin.es/?sub=ML,NLP,KR,HCI), Easily find all Top AI conference deadline.
+  - [Crop PDF](https://croppdf.com/), Convert PDF Files.
   - [Zotera plugins, Chinese](https://plugins.zotero-chinese.com/#/), Extend capability of you Zotera using various plugins(Better paper reading experience).
   - [Z-Library](https://zh.zlibrary-global.se/), Find any book you need here, and please support the copyright of author if you are able to.
   - [Turn Vedio into GIF for your academic presentation, Chinese](https://www.tutieshi.com/video/), Make an dynamic figure in your presentation must be fun.
@@ -84,6 +85,7 @@ cooperated with [Dr.Stephen Pasteris](https://scholar.google.com.hk/citations?us
   - [Pyradiomics](https://pyradiomics.readthedocs.io/en/latest/features.html#module-radiomics.ngtdm). Powerful Radiomics research tools
   - [Find journals you want](https://www.scimagojr.com/journalrank.php). Easy to find suitable journals to submit your paper
 - **3.Reinforcement learning**
+  - [Spinning Up Deep RL](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html), A fast guideline to implement your Deep RL
   - [Stable baseline3](https://stable-baselines3.readthedocs.io/en/master/), Fast Reliable Reinforcement Learning Implementations.
 - **4.Easy hardware programing**
   - [Micropython, Chinese](http://micropython.com.cn/en/latet/reference/pyboard.py.html), Tutorials for hardware programing using micropython (Chinese version)
