@@ -59,6 +59,7 @@ cooperated with [Dr.Stephen Pasteris](https://scholar.google.com.hk/citations?us
 - *2019.09 - 2023.09*, **Joint bachelor's education** in [SIAT, University of Chinese Academy of Sciences](https://www.siat.ac.cn/) and [CQUT](https://www.cqut.edu.cn/)
 
 # 📻 Invited Talks
+- *2024.04*, Deep reinforcement learning with its application, SIAT, University of Chinese Academy of Sciences
 - *2023.12*, Multimodality radiomics in prostate cancer radiotherapy, CDT Data Science Seminar, University of Liverpool
 - *2023.10*, **Plenary leture**, The 16th International Conference for Stereology and Image Analysis(ICSIA-2023), Xi'an, CHINA
 
