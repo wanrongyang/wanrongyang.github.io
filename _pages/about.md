@@ -59,6 +59,7 @@ cooperated with [Dr.Stephen Pasteris](https://scholar.google.com.hk/citations?us
 - *2019.09 - 2023.09*, **Joint bachelor's education** in [SIAT, University of Chinese Academy of Sciences](https://www.siat.ac.cn/) and [CQUT](https://www.cqut.edu.cn/)
 
 # 📻 Invited Talks
+- *2024.04*, Deep reinforcement learning in network intrusion detection, PhD student presentation, Alan Turing Institute, London, UK
 - *2024.04*, Deep reinforcement learning with its application, SIAT, University of Chinese Academy of Sciences
 - *2023.12*, Multimodality radiomics in prostate cancer radiotherapy, CDT Data Science Seminar, University of Liverpool
 - *2023.10*, **Plenary leture**, The 16th International Conference for Stereology and Image Analysis(ICSIA-2023), Xi'an, CHINA
@@ -92,7 +93,7 @@ cooperated with [Dr.Stephen Pasteris](https://scholar.google.com.hk/citations?us
   - [Micropython, Chinese](http://micropython.com.cn/en/latet/reference/pyboard.py.html), Tutorials for hardware programing using micropython (Chinese version)
   - [Micropython, English](https://docs.micropython.org/en/latest/), Tutorials for hardware programing using micropython (English version)
   - [Pyboard, Chinese](http://vcc-gnd.com/PYB/html/pyboard/quickref.html), Learn how to using micropython on pyboard micro chip (Chinese version)
-- [**5.Some professional books**](https://1drv.ms/f/s!Al_icwM1ADsmjSpz9st6B9vcTzen?e=PfqnBh) Here you can find my research related books, however you may need to request clearance from me
+- [**5.Some textbooks**](https://1drv.ms/f/s!Al_icwM1ADsmjSpz9st6B9vcTzen?e=PfqnBh) Here you can find my research related books, however you may need to request clearance from me
 # 🚀 Research Supports and Cooperations
 <div style="text-align: center;">
     <img src="images/SP.jpg" alt="Supportive institutions" width="95%">
