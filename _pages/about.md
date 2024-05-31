@@ -13,17 +13,24 @@ redirect_from:
 
 # ✨ About me
 
-Hi, this Wanrong. Welcome to my wonderland! Currently, I am a PhD student in computer science at [EPSRC Centre for Doctoral Training (CDT)](https://www.liverpool.ac.uk/distributed-algorithms-cdt/), 
+Hi, this Wanrong. Welcome to my wonderland! Currently, I am a PhD student in computer science at [EPSRC Centre for Doctoral Training (CDT) in Distributed Algorithm](https://www.liverpool.ac.uk/distributed-algorithms-cdt/), 
 Which is a fansnating place to generate future leader in data science and arifical intelligence. Before this, I obtained my bechelor's degree in Biomedical Engineering 
 with highest honor from joint education of [Shenzhen Institute of Adcanced Technology(SIAT), University of Chinese Academy of Sciences(UCAS)](https://www.siat.ac.cn/) and 
 [Chongqing University of Technology(CQUT)](https://www.cqut.edu.cn/). During my undergraduate study, with the supervision of Dr.Wang Li and Dr.Shengping Liu, 
 I focused on medical signal processing and electronic nose. After that, I was supervised by [Dr.Yihang Zhou](https://scholar.google.com/citations?user=l_O7i1oAAAAJ&hl=en), [Dr.Haifeng Wang](https://scholar.google.com/citations?user=Ao4Q2uAAAAAJ&hl=zh-CN) and [Dr.Dong Liang](https://scholar.google.com/citations?user=3cAJWoIAAAAJ&hl=zh-CN) 
 to conduct MR-guided radiotherapy in prostate cancer and AI for fast MR imaging in SIAT. Now, I am supervised by [Dr.Dominik Wojtczak](https://www.csc.liv.ac.uk/~dominik/) and [Dr.Sven Schewe](https://www.liverpool.ac.uk/computer-science/staff/sven-schewe/), 
-cooperated with [Dr.Stephen Pasteris](https://scholar.google.com.hk/citations?user=mqtdKfkAAAAJ&hl=zh-CN&oi=ao) from [Alan Turing Institute](https://www.turing.ac.uk/) to explor new AI technology(Reinforcement learning) for cybersecurity. I am also interested in general **AI for Science**.
+cooperated with [Dr.Stephen Pasteris](https://scholar.google.com.hk/citations?user=mqtdKfkAAAAJ&hl=zh-CN&oi=ao) from [Alan Turing Institute](https://www.turing.ac.uk/) to explor new AI technology(Reinforcement learning) for cybersecurity. I am also interested in general **AI for Science**. 
+In a word, chasing for a real machine intelligence will be my life-long persuit.
 **"Those who can imagine anything, can create the impossible"-Alan Turing**. If you are interested in me, just drop me an email 📬 **Wanrong.Yang@liverpool.ac.uk**
 
+# 🔥 Latest News
+- *2024.06*: &nbsp;🎉🎉 Heading to Newcastle to attend PyStan training.
+- *2024.06*: &nbsp;🎉🎉 Successfully selected for N8 CIR Bede Summer Internship Programme 2024.
+  - As part of recent additional funding offered to Tier 2 High performance computing(HPC) centres by EPSRC
+  - Supervised by [Dr.Dominik Wojtczak](https://www.csc.liv.ac.uk/~dominik/) and [Dr.Manhui Wang](https://scholar.google.com/citations?user=3dYIIPcAAAAJ&hl=zh-CN&oi=ao) (Head of Research Platforms, University of Liverpool)
+  - Duration: 21 weeks.
 
-# 🔥 News
+# :speedboat: Past Journey
 - *2023.12*: &nbsp;🥳🥳 Our new research abstract was accepted by 2024 Annual Congress of the European Society for Radiotherapy and Oncology.
 - *2023.10*: &nbsp;🎉🎉 Our latest research regarding multimodality radiomics is accepted by ICSIA 2023.
 - *2023.07*: &nbsp;🥳🥳 Having my PhD admission offer to the University of Liverpool!
