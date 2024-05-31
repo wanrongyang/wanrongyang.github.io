@@ -27,7 +27,7 @@ In a word, chasing for a real machine intelligence will be my life-long persuit.
 - *2024.06*: &nbsp;🎉 Heading to Newcastle to attend PyStan training.
 - *2024.06*: &nbsp;🎉 Successfully selected for N8 CIR Bede Summer Internship Programme 2024.
   - As part of recent additional funding offered to Tier 2 High performance computing(HPC) centres by EPSRC
-  - Supervised by [Dr.Dominik Wojtczak](https://www.csc.liv.ac.uk/~dominik/) and [Dr.Manhui Wang](https://scholar.google.com/citations?user=3dYIIPcAAAAJ&hl=zh-CN&oi=ao) (Head of Research Platforms, University of Liverpool)
+  - Supervised by [Dr.Dominik Wojtczak](https://www.csc.liv.ac.uk/~dominik/) and [Dr.Manhui Wang](https://scholar.google.com/citations?user=3dYIIPcAAAAJ&hl=zh-CN&oi=ao) (Head of Research IT Platforms, University of Liverpool)
   - Duration: 21 weeks.
 
 # 🍄 Past Journey
