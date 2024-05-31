@@ -14,8 +14,8 @@ redirect_from:
 # ✨ About me
 
 Hi, this Wanrong. Welcome to my wonderland! Currently, I am a PhD student in computer science at [EPSRC Centre for Doctoral Training (CDT) in Distributed Algorithm](https://www.liverpool.ac.uk/distributed-algorithms-cdt/), 
-Which is a fansnating place to generate future leader in data science and arifical intelligence. Before this, I obtained my bechelor's degree in Biomedical Engineering 
-with the highest honor from joint education of [Shenzhen Institute of Adcanced Technology(SIAT), University of Chinese Academy of Sciences(UCAS)](https://www.siat.ac.cn/) and 
+Which is a fascinating place to generate future leader in data science and artificial intelligence. Before this, I obtained my bachelor's degree in Biomedical Engineering 
+with the highest honor from joint education of [Shenzhen Institute of Advanced Technology(SIAT), University of Chinese Academy of Sciences(UCAS)](https://www.siat.ac.cn/) and 
 [Chongqing University of Technology(CQUT)](https://www.cqut.edu.cn/). During my undergraduate study, with the supervision of Dr.Wang Li and Dr.Shengping Liu, 
 I focused on medical signal processing and electronic nose. After that, I was supervised by [Dr.Yihang Zhou](https://scholar.google.com/citations?user=l_O7i1oAAAAJ&hl=en), [Dr.Haifeng Wang](https://scholar.google.com/citations?user=Ao4Q2uAAAAAJ&hl=zh-CN) and [Dr.Dong Liang](https://scholar.google.com/citations?user=3cAJWoIAAAAJ&hl=zh-CN) 
 to conduct MR-guided radiotherapy in prostate cancer and AI for fast MR imaging in SIAT. Now, I am supervised by [Dr.Dominik Wojtczak](https://www.csc.liv.ac.uk/~dominik/) and [Dr.Sven Schewe](https://www.liverpool.ac.uk/computer-science/staff/sven-schewe/), 
@@ -69,28 +69,28 @@ In a word, chasing for a real machine intelligence will be my life-long persuit.
 - *2024.04*, Deep reinforcement learning in network intrusion detection, PhD student presentation, Alan Turing Institute, London, UK
 - *2024.04*, Deep reinforcement learning with its application, SIAT, University of Chinese Academy of Sciences
 - *2023.12*, Multimodality radiomics in prostate cancer radiotherapy, CDT Data Science Seminar, University of Liverpool
-- *2023.10*, **Plenary leture**, The 16th International Conference for Stereology and Image Analysis(ICSIA-2023), Xi'an, CHINA
+- *2023.10*, **Plenary lecture**, The 16th International Conference for Stereology and Image Analysis(ICSIA-2023), Xi'an, CHINA
 
 # 👨‍🏫 Academic services
 - *2024.02*, Teaching Assistant for *Applied Artificial Intelligence*, University of Liverpool
 - *2024.02*, Teaching Assistant for *Computer Forensics*, University of Liverpool
-- *2024.02*, Teaching Assistant for *Cyber Security*, University of Liverpool
+- *2024.02*, Teaching Assistant for *CyberSecurity*, University of Liverpool
 - *2023.12*, Teaching Assistant for *the theory of computation*, University of Liverpool
 
 # 🎨 Tools
 - **1.Make your Life much easier**
   - [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/), you can find various emojis and their unicode easily.
-  - [Free PDF tools](https://docsmall.com/pdf-split), Strugle with PDF? Use it!
+  - [Free PDF tools](https://docsmall.com/pdf-split), Struggle with PDF? Use it!
   - [Edit Your picture](https://www.iloveimg.com/zh-cn/crop-image/crop-png), Cut your picture into pointed size.
   - [Practice your English for exam](https://qwerty.kaiyi.cool/), worries about you IELTS test? It could be helpful for you.
   - [Start computer science from 0](https://csdiy.wiki/en/), if you are interested in CS, but without any foundation, follow this route
 - **2.Boost your research**
   - [Top AI Conference DDL](https://aideadlin.es/?sub=ML,NLP,KR,HCI), Easily find all Top AI conference deadline.
   - [Crop PDF](https://croppdf.com/), Convert PDF Files.
-  - [Zotera plugins, Chinese](https://plugins.zotero-chinese.com/#/), Extend capability of you Zotera using various plugins(Better paper reading experience).
+  - [Zotero plugins, Chinese](https://plugins.zotero-chinese.com/#/), Extend capability of you Zotero using various plugins(Better paper reading experience).
   - [Z-Library](https://zh.zlibrary-global.se/), Find any book you need here, and please support the copyright of author if you are able to.
-  - [Turn Vedio into GIF for your academic presentation, Chinese](https://www.tutieshi.com/video/), Make an dynamic figure in your presentation must be fun.
-  - [Turn Vedio into GIF for your academic presentation, English](https://www.freeconvert.com/convert/video-to-gif). Same as last one
+  - [Turn Video into GIF for your academic presentation, Chinese](https://www.tutieshi.com/video/), Make a dynamic figure in your presentation must be fun.
+  - [Turn Video into GIF for your academic presentation, English](https://www.freeconvert.com/convert/video-to-gif). Same as last one
   - [Pyradiomics](https://pyradiomics.readthedocs.io/en/latest/features.html#module-radiomics.ngtdm). Powerful Radiomics research tools
   - [Find journals you want](https://www.scimagojr.com/journalrank.php). Easy to find suitable journals to submit your paper
 - **3.Reinforcement learning**
@@ -99,9 +99,9 @@ In a word, chasing for a real machine intelligence will be my life-long persuit.
 - **4.Easy hardware programing**
   - [Micropython, Chinese](http://micropython.com.cn/en/latet/reference/pyboard.py.html), Tutorials for hardware programing using micropython (Chinese version)
   - [Micropython, English](https://docs.micropython.org/en/latest/), Tutorials for hardware programing using micropython (English version)
-  - [Pyboard, Chinese](http://vcc-gnd.com/PYB/html/pyboard/quickref.html), Learn how to use micropython on pyboard micro chip (Chinese version)
+  - [Pyboard, Chinese](http://vcc-gnd.com/PYB/html/pyboard/quickref.html), Learn how to use micropython on pyboard microchip (Chinese version)
 - [**5.Some textbooks**](https://1drv.ms/f/s!Al_icwM1ADsmjSpz9st6B9vcTzen?e=PfqnBh) Here you can find my research related books, however you may need to request clearance from me
-# 🚀 Research Supports and Cooperations
+# 🚀 Research Supports and Cooperation
 <div style="text-align: center;">
     <img src="images/SP.jpg" alt="Supportive institutions" width="95%">
 </div>
