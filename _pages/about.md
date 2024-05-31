@@ -15,7 +15,7 @@ redirect_from:
 
 Hi, this Wanrong. Welcome to my wonderland! Currently, I am a PhD student in computer science at [EPSRC Centre for Doctoral Training (CDT) in Distributed Algorithm](https://www.liverpool.ac.uk/distributed-algorithms-cdt/), 
 Which is a fansnating place to generate future leader in data science and arifical intelligence. Before this, I obtained my bechelor's degree in Biomedical Engineering 
-with highest honor from joint education of [Shenzhen Institute of Adcanced Technology(SIAT), University of Chinese Academy of Sciences(UCAS)](https://www.siat.ac.cn/) and 
+with the highest honor from joint education of [Shenzhen Institute of Adcanced Technology(SIAT), University of Chinese Academy of Sciences(UCAS)](https://www.siat.ac.cn/) and 
 [Chongqing University of Technology(CQUT)](https://www.cqut.edu.cn/). During my undergraduate study, with the supervision of Dr.Wang Li and Dr.Shengping Liu, 
 I focused on medical signal processing and electronic nose. After that, I was supervised by [Dr.Yihang Zhou](https://scholar.google.com/citations?user=l_O7i1oAAAAJ&hl=en), [Dr.Haifeng Wang](https://scholar.google.com/citations?user=Ao4Q2uAAAAAJ&hl=zh-CN) and [Dr.Dong Liang](https://scholar.google.com/citations?user=3cAJWoIAAAAJ&hl=zh-CN) 
 to conduct MR-guided radiotherapy in prostate cancer and AI for fast MR imaging in SIAT. Now, I am supervised by [Dr.Dominik Wojtczak](https://www.csc.liv.ac.uk/~dominik/) and [Dr.Sven Schewe](https://www.liverpool.ac.uk/computer-science/staff/sven-schewe/), 
@@ -24,13 +24,13 @@ In a word, chasing for a real machine intelligence will be my life-long persuit.
 **"Those who can imagine anything, can create the impossible"-Alan Turing**. If you are interested in me, just drop me an email 📬 **Wanrong.Yang@liverpool.ac.uk**
 
 # 🔥 Latest News
-- *2024.06*: &nbsp;🎉🎉 Heading to Newcastle to attend PyStan training.
-- *2024.06*: &nbsp;🎉🎉 Successfully selected for N8 CIR Bede Summer Internship Programme 2024.
+- *2024.06*: &nbsp;🎉 Heading to Newcastle to attend PyStan training.
+- *2024.06*: &nbsp;🎉 Successfully selected for N8 CIR Bede Summer Internship Programme 2024.
   - As part of recent additional funding offered to Tier 2 High performance computing(HPC) centres by EPSRC
   - Supervised by [Dr.Dominik Wojtczak](https://www.csc.liv.ac.uk/~dominik/) and [Dr.Manhui Wang](https://scholar.google.com/citations?user=3dYIIPcAAAAJ&hl=zh-CN&oi=ao) (Head of Research Platforms, University of Liverpool)
   - Duration: 21 weeks.
 
-# :speedboat: Past Journey
+# ⭐ Past Journey
 - *2023.12*: &nbsp;🥳🥳 Our new research abstract was accepted by 2024 Annual Congress of the European Society for Radiotherapy and Oncology.
 - *2023.10*: &nbsp;🎉🎉 Our latest research regarding multimodality radiomics is accepted by ICSIA 2023.
 - *2023.07*: &nbsp;🥳🥳 Having my PhD admission offer to the University of Liverpool!
@@ -79,7 +79,7 @@ In a word, chasing for a real machine intelligence will be my life-long persuit.
 
 # 🎨 Tools
 - **1.Make your Life much easier**
-  - [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/), you can find various emojies and their unicode easily.
+  - [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/), you can find various emojis and their unicode easily.
   - [Free PDF tools](https://docsmall.com/pdf-split), Strugle with PDF? Use it!
   - [Edit Your picture](https://www.iloveimg.com/zh-cn/crop-image/crop-png), Cut your picture into pointed size.
   - [Practice your English for exam](https://qwerty.kaiyi.cool/), worries about you IELTS test? It could be helpful for you.
@@ -99,7 +99,7 @@ In a word, chasing for a real machine intelligence will be my life-long persuit.
 - **4.Easy hardware programing**
   - [Micropython, Chinese](http://micropython.com.cn/en/latet/reference/pyboard.py.html), Tutorials for hardware programing using micropython (Chinese version)
   - [Micropython, English](https://docs.micropython.org/en/latest/), Tutorials for hardware programing using micropython (English version)
-  - [Pyboard, Chinese](http://vcc-gnd.com/PYB/html/pyboard/quickref.html), Learn how to using micropython on pyboard micro chip (Chinese version)
+  - [Pyboard, Chinese](http://vcc-gnd.com/PYB/html/pyboard/quickref.html), Learn how to use micropython on pyboard micro chip (Chinese version)
 - [**5.Some textbooks**](https://1drv.ms/f/s!Al_icwM1ADsmjSpz9st6B9vcTzen?e=PfqnBh) Here you can find my research related books, however you may need to request clearance from me
 # 🚀 Research Supports and Cooperations
 <div style="text-align: center;">
