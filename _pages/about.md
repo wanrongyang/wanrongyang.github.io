@@ -24,13 +24,13 @@ In a word, chasing for a real machine intelligence will be my life-long persuit.
 **"Those who can imagine anything, can create the impossible"-Alan Turing**. If you are interested in me, just drop me an email 📬 **Wanrong.Yang@liverpool.ac.uk**
 
 # 🔥 Latest News
-- *2024.06*: &nbsp;🎉 Heading to Newcastle to attend PyStan training.
 - *2024.06*: &nbsp;🎉 Successfully selected for N8 CIR Bede Summer Internship Programme 2024.
   - As part of recent additional funding offered to Tier 2 High Performance Computing(HPC) centres by EPSRC
   - Supervised by [Dr.Dominik Wojtczak](https://www.csc.liv.ac.uk/~dominik/) and [Dr.Manhui Wang](https://scholar.google.com/citations?user=3dYIIPcAAAAJ&hl=zh-CN&oi=ao) (Head of Research IT Platforms, University of Liverpool)
   - Duration: 21 weeks.
 
 # 🍄 Past Journey
+- *2024.06*: &nbsp;🎉🎉 Newcastle for attending PyStan training with Jumping river.
 - *2023.12*: &nbsp;🥳🥳 Our new research abstract was accepted by 2024 Annual Congress of the European Society for Radiotherapy and Oncology.
 - *2023.10*: &nbsp;🎉🎉 Our latest research regarding multimodality radiomics is accepted by ICSIA 2023.
 - *2023.07*: &nbsp;🥳🥳 Having my PhD admission offer to the University of Liverpool!
