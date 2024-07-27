@@ -20,7 +20,7 @@ with the highest honor from joint education of [Shenzhen Institute of Advanced T
 I focused on medical signal processing and electronic nose. After that, I was supervised by [Dr.Yihang Zhou](https://scholar.google.com/citations?user=l_O7i1oAAAAJ&hl=en), [Dr.Haifeng Wang](https://scholar.google.com/citations?user=Ao4Q2uAAAAAJ&hl=zh-CN) and [Dr.Dong Liang](https://scholar.google.com/citations?user=3cAJWoIAAAAJ&hl=zh-CN) 
 to conduct MR-guided radiotherapy in prostate cancer and AI for fast MR imaging in SIAT. Now, I am supervised by [Dr.Dominik Wojtczak](https://www.csc.liv.ac.uk/~dominik/) and [Dr.Sven Schewe](https://www.liverpool.ac.uk/computer-science/staff/sven-schewe/), 
 cooperated with [Dr.Stephen Pasteris](https://scholar.google.com.hk/citations?user=mqtdKfkAAAAJ&hl=zh-CN&oi=ao) from [Alan Turing Institute](https://www.turing.ac.uk/) to explor new AI technology(Reinforcement learning) for cybersecurity. I am also interested in general **AI for Science**. 
-In a word, chasing for a real machine intelligence will be my life-long persuit.
+In a word, chasing for a real machine intelligence would be my life-long persuit.
 **"Those who can imagine anything, can create the impossible"-Alan Turing**. If you are interested in me, just drop me an email 📬 **Wanrong.Yang@liverpool.ac.uk**
 
 # 🔥 Latest News
@@ -30,21 +30,19 @@ In a word, chasing for a real machine intelligence will be my life-long persuit.
   - Duration: 21 weeks.
 
 # 🍄 Past Journey
-- *2024.06*: &nbsp;🎉🎉 Newcastle for attending PyStan training with Jumping river.
+- *2024.06*: &nbsp;🎉🎉 Heading to Newcastle for attending PyStan training with Jumping river.
 - *2023.12*: &nbsp;🥳🥳 Our new research abstract was accepted by 2024 Annual Congress of the European Society for Radiotherapy and Oncology.
 - *2023.10*: &nbsp;🎉🎉 Our latest research regarding multimodality radiomics is accepted by ICSIA 2023.
 - *2023.07*: &nbsp;🥳🥳 Having my PhD admission offer to the University of Liverpool!
-- *2023.06*: &nbsp;🎉🎉 Officially graduated from my undergraduate study!
+- *2023.06*: &nbsp;🎉🎉 Officially graduated from my bachelor study!
 - *2022.11*: &nbsp;🥳🥳 Having top honor awarded to undergraduate in CQUT.
 - *2022.10*: &nbsp;🥳🥳 We obtained National 2rd prize in 7th National Biomedical Engineering Innovation and Design Competition.
 - *2021.08*: &nbsp;🎉🎉 We are heading to SUN YAT-SEN University to attend 6th National Biomedical Engineering Innovation and Design Competition.
 
 # 📝 Publications
-- **Yang, W.**, Zhou, Y., et al., Multimodality radiomics boosts precise online risk stratification in prostate cancer radiotherapy, The Annual Congress of the European Society for Radiotherapy and Oncology (ESTRO,2024, abstract accepted). ***[PDF](https://1drv.ms/b/s!Al_icwM1ADsmjQEld7gfyKu0ZDXU?e=1NDBRI)***
 - **Yang, W.**, Zhou, Y., et al., Multimodality radiomics model for improving MR-guided radiotherapy of prostate cancer, The 16th International Conference for Stereology and Image Analysis (ICSIA-2023, accepted). ***[PDF](https://1drv.ms/b/s!Al_icwM1ADsmjSnEfjmAYdAgimRT?e=xbZlxe)***
 - Li, W., Xu, J., **Yang, W.**, et al. [Approach and Application of Extracting Matching Features From E-nose Signals for AI Tasks](https://www.sciencedirect.com/science/article/pii/S1746809423013022?dgcid=coauthor). Biomedical Signal Processing and Control (JCR Q1), 2023. ***[PDF](https://1drv.ms/b/s!Al_icwM1ADsmjGsLrXT4lyWJaP1i?e=h5HuOo)***
 - **Yang, W.**, Xu, J. ...  & Li, W. [Diagnosis of cardiac abnormalities based on phonocardiogram using a novel fuzzy matching feature extraction method](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-023-02379-x). BMC medical informatics and decision making (JCR Q1), 2022. ***[PDF](https://1drv.ms/b/s!Al_icwM1ADsmjHXUJuJqApFume3K?e=XHT7Gv)***
-- **Yang, W.**, et al., [Metabolic changes of VOCs in human caused by wearing masks: a preliminary study based on electronic nose](https://www.spiedigitallibrary.org/proceedings/Download?urlId=10.1117%2F12.2660107), Proc. SPIE 12458, International Conference on Biomedical and Intelligent Systems (IC-BIS 2022). ***[PDF](https://1drv.ms/b/s!Al_icwM1ADsmjHGzCPQDwr-_KZUu?e=JJsYbH)***
 - Xiang, J., **Yang, W.**, Li, W. [Digital Signal Extraction Approach for Cardiotocography Image](https://www.sciencedirect.com/science/article/pii/S0169260722004709). Computer Methods and Programs in Biomedicine (JCR Q1), 2022. ***[PDF](https://1drv.ms/b/s!Al_icwM1ADsmjG_JGsNBFA-wDqZE?e=XxkuEF)***
 
 # 📚 Invention Patent
