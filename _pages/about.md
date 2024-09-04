@@ -66,9 +66,9 @@ In a word, chasing for a real machine intelligence would be my life-long persuit
 - *2019.09 - 2023.09*, **Joint bachelor's education** in [SIAT, University of Chinese Academy of Sciences](https://www.siat.ac.cn/) and [CQUT](https://www.cqut.edu.cn/)
 
 # 🔋Completed Trainings
-- *2024.09*, **Scrum Training for efficient team work and development**, Centre for Doctoral Training (CDT) in Distributed Algorithm
+- *2024.09*, **Scrum Training for efficient team work and development**, University of Liverpool
 - *2024.06*, **PyStan Training**, Jumping River, Newcastle, UK
-- *2024.04*, **CDT regular trainings** Centre for Doctoral Training (CDT) in Distributed Algorithm
+- *2024.04*, **CDT regular trainings**, CDT
   - *1*, Introduction to the Kalman Filter and Particle Filter
   - *2*, Markov Chain Monte Carlo methods and Sequential Monte Carlo samplers
   - *3*, Introduction to Research on Analytics/ML
