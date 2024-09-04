@@ -30,8 +30,10 @@ In a word, chasing for a real machine intelligence would be my life-long persuit
   - Duration: 21 weeks.
 
 # 🍄 Past Journey
+- *2024.07*: &nbsp;🎉🎉 6th Annual Learning for Dynamics & Control Conference, University of Oxford (L4DC 2024).
 - *2024.06*: &nbsp;🎉🎉 Heading to Newcastle for attending PyStan training with Jumping river.
 - *2023.12*: &nbsp;🥳🥳 Our new research abstract was accepted by 2024 Annual Congress of the European Society for Radiotherapy and Oncology.
+- *2023.11*: &nbsp;🎉🎉 UK CDT Conferences 2023, University of Birmingham.
 - *2023.10*: &nbsp;🎉🎉 Our latest research regarding multimodality radiomics is accepted by ICSIA 2023.
 - *2023.07*: &nbsp;🥳🥳 Having my PhD admission offer to the University of Liverpool!
 - *2023.06*: &nbsp;🎉🎉 Officially graduated from my bachelor study!
@@ -63,6 +65,12 @@ In a word, chasing for a real machine intelligence would be my life-long persuit
 - *2023.10 - 2027.09 (Expected)*, **PhD student**, fully funded by [EPSRC Centre for Doctoral Training (CDT)](https://www.liverpool.ac.uk/distributed-algorithms-cdt/), University of Liverpool.
 - *2019.09 - 2023.09*, **Joint bachelor's education** in [SIAT, University of Chinese Academy of Sciences](https://www.siat.ac.cn/) and [CQUT](https://www.cqut.edu.cn/)
 
+# 📚 Completed Trainings
+- *2024.09*, **Scrum Training for efficient team work and development**, Centre for Doctoral Training (CDT) in Distributed Algorithm
+- *2024.06*, **PyStan Training**, Jumping River, Newcastle, UK
+- *2024.04*, **CDT regular trainings**
+- - *2024.04*, Research analysis on machine learning
+
 # 📻 Invited Talks
 - *2024.04*, Deep reinforcement learning in network intrusion detection, PhD student presentation, Alan Turing Institute, London, UK
 - *2024.04*, Deep reinforcement learning with its application, SIAT, University of Chinese Academy of Sciences
@@ -82,6 +90,7 @@ In a word, chasing for a real machine intelligence would be my life-long persuit
   - [Edit Your picture](https://www.iloveimg.com/zh-cn/crop-image/crop-png), Cut your picture into pointed size.
   - [Practice your English for exam](https://qwerty.kaiyi.cool/), worries about you IELTS test? It could be helpful for you.
   - [Start computer science from 0](https://csdiy.wiki/en/), if you are interested in CS, but without any foundation, follow this route
+  - [Neural Network](https://playground.tensorflow.org/#activation=sigmoid&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.0001&regularizationRate=0&noise=0&networkShape=4,7,5,5,4,4&seed=0.98718&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false), A funny way to learn how Neural Net works
 - **2.Boost your research**
   - [Top AI Conference DDL](https://aideadlin.es/?sub=ML,NLP,KR,HCI), Easily find all Top AI conference deadline.
   - [Crop PDF](https://croppdf.com/), Convert PDF Files.
