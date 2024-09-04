@@ -65,11 +65,17 @@ In a word, chasing for a real machine intelligence would be my life-long persuit
 - *2023.10 - 2027.09 (Expected)*, **PhD student**, fully funded by [EPSRC Centre for Doctoral Training (CDT)](https://www.liverpool.ac.uk/distributed-algorithms-cdt/), University of Liverpool.
 - *2019.09 - 2023.09*, **Joint bachelor's education** in [SIAT, University of Chinese Academy of Sciences](https://www.siat.ac.cn/) and [CQUT](https://www.cqut.edu.cn/)
 
-# 📚 Completed Trainings
+# 🔋Completed Trainings
 - *2024.09*, **Scrum Training for efficient team work and development**, Centre for Doctoral Training (CDT) in Distributed Algorithm
 - *2024.06*, **PyStan Training**, Jumping River, Newcastle, UK
-- *2024.04*, **CDT regular trainings**
-- - *2024.04*, Research analysis on machine learning
+- *2024.04*, **CDT regular trainings** Centre for Doctoral Training (CDT) in Distributed Algorithm
+  - *1*, Introduction to the Kalman Filter and Particle Filter
+  - *2*, Markov Chain Monte Carlo methods and Sequential Monte Carlo samplers
+  - *3*, Introduction to Research on Analytics/ML
+  - *4*, Introduction to High-performance computing system, Barkla
+  - *5*, Parallel Programming in MPI and OpenMP
+  - *6*, Git and GitHub
+  - *7*, Distributed Computing on the University of Liverpool’s HTCondor Pool
 
 # 📻 Invited Talks
 - *2024.04*, Deep reinforcement learning in network intrusion detection, PhD student presentation, Alan Turing Institute, London, UK
@@ -108,6 +114,7 @@ In a word, chasing for a real machine intelligence would be my life-long persuit
   - [Micropython, English](https://docs.micropython.org/en/latest/), Tutorials for hardware programing using micropython (English version)
   - [Pyboard, Chinese](http://vcc-gnd.com/PYB/html/pyboard/quickref.html), Learn how to use micropython on pyboard microchip (Chinese version)
 - [**5.Some textbooks**](https://1drv.ms/f/s!Al_icwM1ADsmjSpz9st6B9vcTzen?e=PfqnBh) Here you can find my research related books, however you may need to request clearance from me
+
 # 🚀 Research Supports and Cooperation
 <div style="text-align: center;">
     <img src="images/SP.jpg" alt="Supportive institutions" width="95%">
