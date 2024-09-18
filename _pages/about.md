@@ -108,6 +108,8 @@ In a word, chasing for a real machine intelligence would be my life-long persuit
   - [Pyradiomics](https://pyradiomics.readthedocs.io/en/latest/features.html#module-radiomics.ngtdm). Powerful Radiomics research tools
   - [Find journals you want](https://www.scimagojr.com/journalrank.php). Easy to find suitable journals to submit your paper
   - [Find conferences](https://conferencealerts.com/index)
+  - [ACM conferences](https://www.acm.org/conferences/upcoming-submission-deadlines). Find ACM conferences and DDLs
+  - [IEEE conferences](https://www.ieee.org/conferences/index.html). Find IEEE conferences and DDLs
 - **3.Reinforcement learning**
   - [Spinning Up Deep RL](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html), A fast guideline to implement your Deep RL
   - [Stable baseline3](https://stable-baselines3.readthedocs.io/en/master/), Fast Reliable Reinforcement Learning Implementations.
