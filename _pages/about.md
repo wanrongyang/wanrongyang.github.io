@@ -18,8 +18,8 @@ Which is a fascinating place to generate future leader in data science and artif
 with the highest honor from joint education of [Shenzhen Institute of Advanced Technology(SIAT), University of Chinese Academy of Sciences(UCAS)](https://www.siat.ac.cn/) and 
 [Chongqing University of Technology(CQUT)](https://www.cqut.edu.cn/). During my undergraduate study, with the supervision of Dr.Wang Li and Dr.Shengping Liu, 
 I focused on medical signal processing and electronic nose. After that, I was supervised by [Dr.Yihang Zhou](https://scholar.google.com/citations?user=l_O7i1oAAAAJ&hl=en), [Dr.Haifeng Wang](https://scholar.google.com/citations?user=Ao4Q2uAAAAAJ&hl=zh-CN) and [Dr.Dong Liang](https://scholar.google.com/citations?user=3cAJWoIAAAAJ&hl=zh-CN) 
-to conduct MR-guided radiotherapy in prostate cancer and AI for fast MR imaging in SIAT. Now, I am supervised by [Dr.Dominik Wojtczak](https://www.csc.liv.ac.uk/~dominik/) and [Dr.Sven Schewe](https://www.liverpool.ac.uk/computer-science/staff/sven-schewe/), 
-cooperated with [Dr.Stephen Pasteris](https://scholar.google.com.hk/citations?user=mqtdKfkAAAAJ&hl=zh-CN&oi=ao) from [Alan Turing Institute](https://www.turing.ac.uk/) to explor new AI technology(Reinforcement learning) for cybersecurity. I am also interested in general **AI for Science**. 
+to conduct MR-guided radiotherapy in prostate cancer and AI for fast MR imaging in SIAT. Now, I am supervised by [Prof. Yalin Zheng](https://scholar.google.com/citations?user=nKCHXTAAAAAJ&hl=en&oi=ao), [Dr.Dominik Wojtczak](https://www.csc.liv.ac.uk/~dominik/) and [Dr.Sven Schewe](https://www.liverpool.ac.uk/computer-science/staff/sven-schewe/), 
+cooperated with [Dr.Stephen Pasteris](https://scholar.google.com.hk/citations?user=mqtdKfkAAAAJ&hl=zh-CN&oi=ao) from [Alan Turing Institute](https://www.turing.ac.uk/) to explor new AI technology(Reinforcement learning) in medical applications and broader safety evaluations. I am also interested in general **AI for Science**. 
 In a word, chasing for a real machine intelligence would be my life-long persuit.
 **"Those who can imagine anything, can create the impossible"-Alan Turing**. If you are interested in me, just drop me an email 📬 **Wanrong.Yang@liverpool.ac.uk**
 
@@ -78,6 +78,7 @@ In a word, chasing for a real machine intelligence would be my life-long persuit
   - *7*, Distributed Computing on the University of Liverpool’s HTCondor Pool
 
 # 📻 Invited Talks
+- *2024.09*, Deep attack intention inference, IT Services, University of Liverpool (148 audiences)
 - *2024.04*, Deep reinforcement learning in network intrusion detection, PhD student presentation, Alan Turing Institute, London, UK
 - *2024.04*, Deep reinforcement learning with its application, SIAT, University of Chinese Academy of Sciences
 - *2023.12*, Multimodality radiomics in prostate cancer radiotherapy, CDT Data Science Seminar, University of Liverpool
