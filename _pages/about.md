@@ -110,6 +110,8 @@ In a word, chasing for a real machine intelligence would be my life-long persuit
   - [Find conferences](https://conferencealerts.com/index)
   - [ACM conferences](https://www.acm.org/conferences/upcoming-submission-deadlines). Find ACM conferences and DDLs
   - [IEEE conferences](https://www.ieee.org/conferences/index.html). Find IEEE conferences and DDLs
+  - [CCF deadlines](https://ccfddl.github.io/). Find CCF conferences and DDLs
+  - [Find all CCF accredited conferences](https://ccf.atom.im/). Find all CCF accredited conferences
 - **3.Reinforcement learning**
   - [Spinning Up Deep RL](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html), A fast guideline to implement your Deep RL
   - [Stable baseline3](https://stable-baselines3.readthedocs.io/en/master/), Fast Reliable Reinforcement Learning Implementations.
