@@ -16,7 +16,7 @@ redirect_from:
 Hi, this Wanrong. Welcome to my wonderland! Currently, I am a PhD student in computer science at [EPSRC Centre for Doctoral Training (CDT) in Distributed Algorithm](https://www.liverpool.ac.uk/distributed-algorithms-cdt/), 
 Which is a fascinating place to generate future leader in data science and artificial intelligence. Before this, I obtained my bachelor's degree in Biomedical Engineering 
 with the highest honor from joint education of [Shenzhen Institute of Advanced Technology(SIAT), University of Chinese Academy of Sciences(UCAS)](https://www.siat.ac.cn/) and 
-[Chongqing University of Technology(CQUT)](https://www.cqut.edu.cn/). During my undergraduate study, with the supervision of Dr.Wang Li and Dr.Shengping Liu, 
+Chongqing University of Technology(CQUT). During my undergraduate study, with the supervision of Dr.Wang Li and Dr.Shengping Liu, 
 I focused on medical signal processing and electronic nose. After that, I was supervised by [Dr.Yihang Zhou](https://scholar.google.com/citations?user=l_O7i1oAAAAJ&hl=en), [Dr.Haifeng Wang](https://scholar.google.com/citations?user=Ao4Q2uAAAAAJ&hl=zh-CN) and [Dr.Dong Liang](https://scholar.google.com/citations?user=3cAJWoIAAAAJ&hl=zh-CN) 
 to conduct MR-guided radiotherapy in prostate cancer and AI for fast MR imaging in SIAT. Now, I am supervised by [Dr.Dominik Wojtczak](https://www.csc.liv.ac.uk/~dominik/), [Prof.Yalin Zheng](https://scholar.google.com/citations?user=nKCHXTAAAAAJ&hl=en&oi=ao) and [Dr.Sven Schewe](https://www.liverpool.ac.uk/computer-science/staff/sven-schewe/), 
 cooperated with [Dr.Stephen Pasteris](https://scholar.google.com.hk/citations?user=mqtdKfkAAAAJ&hl=zh-CN&oi=ao) and [Dr.Chris Hicks](https://scholar.google.com/citations?user=IMw5HFkAAAAJ&hl=en&oi=ao) from [Alan Turing Institute](https://www.turing.ac.uk/) to explor new AI technology(Reinforcement learning) in safety evaluations. I am also interested in general **AI for Science**. 
@@ -63,7 +63,7 @@ In a word, chasing for a real machine intelligence would be my life-long persuit
 
 # 🎓 Educations
 - *2023.10 - 2027.09 (Expected)*, **PhD student**, fully funded by [EPSRC Centre for Doctoral Training (CDT)](https://www.liverpool.ac.uk/distributed-algorithms-cdt/), University of Liverpool.
-- *2019.09 - 2023.09*, **Joint bachelor's education** in [SIAT, University of Chinese Academy of Sciences](https://www.siat.ac.cn/) and [CQUT](https://www.cqut.edu.cn/)
+- *2019.09 - 2023.09*, **Joint bachelor's education** in [SIAT, University of Chinese Academy of Sciences](https://www.siat.ac.cn/) and CQUT
 
 # 🔋Completed Trainings
 - *2024.09*, **Scrum Training for efficient team work and development**, University of Liverpool
@@ -85,10 +85,12 @@ In a word, chasing for a real machine intelligence would be my life-long persuit
 - *2023.10*, **Plenary lecture**, The 16th International Conference for Stereology and Image Analysis(ICSIA-2023), Xi'an, CHINA
 
 # 👨‍🏫 Academic services
+- *2024.09*, Teaching Assistant (leading tutorial sessions) for *Introduction to the Theory of Computation*, University of Liverpool
+- *2024.09*, Teaching Assistant for *Privacy and Security *, University of Liverpool
 - *2024.02*, Teaching Assistant for *Applied Artificial Intelligence*, University of Liverpool
 - *2024.02*, Teaching Assistant for *Computer Forensics*, University of Liverpool
 - *2024.02*, Teaching Assistant for *CyberSecurity*, University of Liverpool
-- *2023.12*, Teaching Assistant for *the theory of computation*, University of Liverpool
+- *2023.12*, Teaching Assistant for *The Theory of Computation*, University of Liverpool
 
 # 🎨 Tools
 - **1.Make your Life much easier**
