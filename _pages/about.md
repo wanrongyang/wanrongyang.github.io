@@ -86,7 +86,7 @@ In a word, chasing for a real machine intelligence would be my life-long persuit
 
 # 👨‍🏫 Academic services
 - *2024.09*, Teaching Assistant (leading tutorial sessions) for *Introduction to the Theory of Computation*, University of Liverpool
-- *2024.09*, Teaching Assistant for *Privacy and Security *, University of Liverpool
+- *2024.09*, Teaching Assistant for *Privacy and Security*, University of Liverpool
 - *2024.02*, Teaching Assistant for *Applied Artificial Intelligence*, University of Liverpool
 - *2024.02*, Teaching Assistant for *Computer Forensics*, University of Liverpool
 - *2024.02*, Teaching Assistant for *CyberSecurity*, University of Liverpool
