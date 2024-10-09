@@ -85,12 +85,13 @@ In a word, chasing for a real machine intelligence would be my life-long persuit
 - *2023.10*, **Plenary lecture**, The 16th International Conference for Stereology and Image Analysis(ICSIA-2023), Xi'an, CHINA
 
 # 👨‍🏫 Academic services
-- *2024.09*, Teaching Assistant (leading tutorial sessions) for *Introduction to the Theory of Computation*, University of Liverpool
-- *2024.09*, Teaching Assistant for *Privacy and Security*, University of Liverpool
-- *2024.02*, Teaching Assistant for *Applied Artificial Intelligence*, University of Liverpool
-- *2024.02*, Teaching Assistant for *Computer Forensics*, University of Liverpool
-- *2024.02*, Teaching Assistant for *CyberSecurity*, University of Liverpool
-- *2023.12*, Teaching Assistant for *The Theory of Computation*, University of Liverpool
+- *2024.09*, Teaching Assistant (leading tutorial sessions) for **Introduction to the Theory of Computation**, University of Liverpool
+  - [course materials](https://github.com/wanrongyang/Theory_of_computation?tab=readme-ov-file), please do leave me a ⭐ when you find it helpful.
+- *2024.09*, Teaching Assistant for **Privacy and Security**, University of Liverpool
+- *2024.02*, Teaching Assistant for **Applied Artificial Intelligence**, University of Liverpool
+- *2024.02*, Teaching Assistant for **Computer Forensics**, University of Liverpool
+- *2024.02*, Teaching Assistant for **CyberSecurity**, University of Liverpool
+- *2023.12*, Teaching Assistant for **The Theory of Computation**, University of Liverpool
 
 # 🎨 Tools
 - **1.Make your Life much easier**
