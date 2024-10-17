@@ -79,6 +79,7 @@ In a word, chasing for a real machine intelligence would be my life-long persuit
   - *7*, Distributed Computing on the University of Liverpool’s HTCondor Pool
 
 # 📻 Invited Talks
+- *2024.09*, Deep attack intention inference with improved attention mechanism, University of York (Over 50 audiences)
 - *2024.09*, Deep attack intention inference, IT Services, University of Liverpool (148 audiences)
 - *2024.04*, Deep reinforcement learning in network intrusion detection, PhD student presentation, Alan Turing Institute, London, UK
 - *2024.04*, Deep reinforcement learning with its application, SIAT, University of Chinese Academy of Sciences
